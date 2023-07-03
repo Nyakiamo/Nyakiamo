@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGExYmFubjFnMG93c3RteW54ZHA4YWI5ZGgwdDhiNDN4dzd3amZ5dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
 <div id="badges">
-  <a href="www.linkedin.com/in/nyakiamo-gregory">
+  <a href="https://www.linkedin.com/in/nyakiamo-gregory">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-twitter-URL">
